@@ -1,0 +1,17 @@
+{
+  "name": "testbarenotification",
+  "displayName": "testbarenotification",
+  "expo": {
+    "name": "testbarenotification",
+    "slug": "testbarenotification",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
